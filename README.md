@@ -21,3 +21,5 @@ Every SOC2-scoped service in the organization pulls the current state of this re
 - **Plan owner:** security@pantalasa.org
 - **Exercise facilitators:** rotating, see each exercise record
 - **Policy owners:** listed in each policy frontmatter
+
+<!-- Trigger dr-docs collector under pantalasa lunar manifest -->

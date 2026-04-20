@@ -23,3 +23,5 @@ Every SOC2-scoped service in the organization pulls the current state of this re
 - **Policy owners:** listed in each policy frontmatter
 
 <!-- Trigger dr-docs collector under pantalasa lunar manifest -->
+
+<!-- Trigger compliance-evidence collectors -->

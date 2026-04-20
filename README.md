@@ -25,3 +25,4 @@ Every SOC2-scoped service in the organization pulls the current state of this re
 <!-- Trigger dr-docs collector under pantalasa lunar manifest -->
 
 <!-- Trigger compliance-evidence collectors -->
+<!-- re-trigger after fix -->

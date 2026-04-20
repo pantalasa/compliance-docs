@@ -2,6 +2,7 @@
 policy_id: "POL-IR-001"
 owner: "security@pantalasa.org"
 last_reviewed: "2026-02-01"
+next_review: "2027-02-01"
 effective_date: "2025-08-15"
 ---
 

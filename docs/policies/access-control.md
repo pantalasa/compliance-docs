@@ -2,6 +2,7 @@
 policy_id: "POL-AC-001"
 owner: "security@pantalasa.org"
 last_reviewed: "2026-01-15"
+next_review: "2027-01-15"
 effective_date: "2025-10-01"
 ---
 

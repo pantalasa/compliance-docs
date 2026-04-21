@@ -1,0 +1,19 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  noop:
+    name: noop
+    runs-on: lunar
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: No-op
+        run: |
+          echo "compliance-docs has no build/test — this workflow exists only so the Lunar GitHub status check can reach a terminal state."
+          exit 0

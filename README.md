@@ -28,3 +28,4 @@ Every SOC2-scoped service in the organization pulls the current state of this re
 <!-- re-trigger after fix -->
 <!-- rerun policy-freshness -->
 <!-- Trigger rerun after cataloger re-stamp -->
+<!-- Trigger producer refresh (cataloger race workaround) -->
